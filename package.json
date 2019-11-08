@@ -10,7 +10,8 @@
     "serve": "preact build && preact serve",
     "dev": "preact watch",
     "lint": "eslint src",
-    "test": "jest ./tests"
+    "test": "jest ./tests",
+    "check-types": "tsc --project ./tsconfig.json --noEmit"
   },
   "eslintConfig": {
     "extends": "eslint-config-synacor"
