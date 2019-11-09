@@ -1,9 +1,8 @@
 project demonstrating  **Property 'ref' is missing in type 'ReactElement* in preact projects using styled components / react-spring
 
-PR: https://github.com/preactjs/preact/pull/2099
+**Fix PR:**
+https://github.com/preactjs/preact/pull/2099
 
-**Demo repo showing the errors:**
-https://github.com/xiel/preact-typescript-test
 
 **Steps to reproduce:**
 - checkout https://github.com/xiel/preact-typescript-test
